@@ -1,8 +1,9 @@
 import React from 'react';
+import Login from './components/login/login';
 
 function App() {
   return (
-    <h1>template</h1>
+    <Login />
   )
 };
 
