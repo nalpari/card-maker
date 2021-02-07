@@ -4,7 +4,7 @@ import styles from "./editor.module.css";
 const Editor = () => {
   return (
     <section className={styles.editor}>
-      editor
+      <h1 className={styles.title}>Card Maker</h1>
     </section>
   );
 };
